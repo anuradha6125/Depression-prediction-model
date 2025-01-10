@@ -63,8 +63,3 @@ The dataset contains various features related to student demographics, academic 
 
 ---
 
-## 🛠️ How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/student-depression-prediction.git
